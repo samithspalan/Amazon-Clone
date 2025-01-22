@@ -1,4 +1,6 @@
 Amazon Clone
+
+
 This is a cloned website of Amazon, built as part of my web development journey. The project is currently implemented using HTML and CSS, with plans to integrate JavaScript soon for added functionality.
 
 Live Demo

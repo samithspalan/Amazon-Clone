@@ -332,7 +332,14 @@ ul p{
 .bb{
     display: flex;
     justify-content: space-evenly;
+
     
+}
+.bb:hover .extra{
+    filter: grayscale(1) blur(1px);
+}
+.bb:hover .extra:hover{
+    filter:none;
 }
 @keyframes change2 {
     0% { background-color:rgb(158, 251, 168) ; }
